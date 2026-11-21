@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Скачанные фото и служебные данные магазинов (5.7 ГБ) в git не храним.
+# Код и books.json остаются в репозитории.
+knig-gora/shops/
+knig-gora/prototype/out/
